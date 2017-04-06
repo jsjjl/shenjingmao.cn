@@ -1,5 +1,5 @@
 <!doctype html>
-<html manifest="app.manifest">
+<html>
 <head>
 <meta charset="utf-8">
 <title>朋友圈装逼神器系列—我们都是神经猫</title>
